@@ -1,7 +1,7 @@
 import java.util.*;
 public class game {
     public static void main(String[] args) {
-        System.out.println("helo");
+        System.out.println("helo world");
         Scanner sc= new Scanner(System.in);
         int n=3;
         char arr[][]=new char[n][n];
